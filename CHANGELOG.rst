@@ -64,6 +64,7 @@ Changed
   for integrity check as `it replaces LGTM
   <https://github.blog/2022-08-15-the-next-step-for-lgtm-com-github-code-scanning/>`_
 - Added a centroid/center of mass functionality to analyse peak position of a spectrum (both in `utils`` and in `LumiSpectrum``)
+- Add documentation of signal tools
 
 Maintenance
 -----------
