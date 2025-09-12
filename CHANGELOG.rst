@@ -66,6 +66,7 @@ Changed
 - Added a centroid/center of mass functionality to analyse peak position of a spectrum (both in `utils`` and in `LumiSpectrum``)
 - Add documentation of signal tools
 
+
 Maintenance
 -----------
 - Replace ``sphinx.ext.imgmath`` by ``sphinx.ext.mathjax`` to fix the math rendering in the *ReadTheDocs* build
